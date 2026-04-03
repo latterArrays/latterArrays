@@ -49,19 +49,17 @@ A browser-based 3D audio-visual music creation tool. Drag instruments around a v
 
 ## 🛠 What I work with
 
-```
-Languages:    TypeScript · Python · Java · C++ · Learning Go
-Frontend:     React · Vite · Angular (under duress) · Learning Vue
-Backend:      PostgreSQL · Redis · Spark · Kafka · Node.js · Firebase · Supabase
-Deployment:   Kubernetes · Docker · GitLab CI/CD · Cloudflare · Learning Terraform & Ansible
-```
+> Languages:    TypeScript · Python · Java · C++ · Learning Go
+> Frontend:     React · Vite · Angular (under duress) · Learning Vue
+> Backend:      PostgreSQL · Redis · Spark · Kafka · Node.js · Firebase · Supabase
+> Deployment:   Kubernetes · Docker · GitLab CI/CD · Cloudflare · Learning Terraform & Ansible
 
 ---
 
 ## 🃏 Outside of code
 
 I'm married to the amazing [Emily Winchester](https://www.newamerica.org/people/emily-winchester/) and proud parent of two cats, Waffle and Pancake.
-| <img src="images/matt-and-emily.jpeg" alt="Arches National Park" width="300"> | <img src="images/waffle-and-pancake.jpeg" alt="Waffle and Pancake" width="400"> |
+| <img src="images/matt-and-emily.jpeg" alt="Arches National Park" width="300"> | <img src="images/waffle-and-pancake.jpeg" alt="Waffle and Pancake" width="400"> 
 
 I've recently gotten REALLY into 3D printing (much to my wife's delight), mostly accessories for Magic The Gathering. My pride and joy: [The Cube!](https://cubecobra.com/cube/list/avatarTLA)<br>
 <img src="images/cube.jpg" alt="My Avatar: TLA Cube" width="500">
@@ -69,7 +67,7 @@ I've recently gotten REALLY into 3D printing (much to my wife's delight), mostly
 I enjoy hiking and can occasionally be found outdoors.
 
 
-| <img src="images/matt2.jpeg" alt="Arches National Park" width="300"> | <img src="images/sanjuan.jpeg" alt="San Juan PR" width="300"> |
+| <img src="images/matt2.jpeg" alt="Arches National Park" width="300"> | <img src="images/sanjuan.jpeg" alt="San Juan PR" width="300"> 
 
 I'm co-founding **Hexagon Games** this year — a local game community (and someday, an FLGS!) starting online and building toward a physical location in Northern Virginia. If you're in the area and play Commander or Wingspan (or anything else made of cardboard), [let's game!](https://discord.gg/jn744fzZ)
 
