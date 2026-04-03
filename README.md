@@ -1,6 +1,6 @@
 # Hey, I'm Matt 👋
 
-Senior Software Engineer based in Arlington, VA. I build distributed systems by day and personal (recently MTG focused) web-apps for fun by night. I've shipped TRL-9 government systems, worked DARPA programs, and a game that hundreds of people played at DEF CON 33. Currently working on something smaller and more magical.
+Senior Research Engineer based in Arlington, VA. I build distributed systems by day and personal (recently MTG focused) web-apps for fun by night. I've shipped TRL-9 government systems, worked DARPA programs, and a game that hundreds of people played at DEF CON 33. Currently working on something smaller and more magical.
 <br><br><img src="images/matt.jpeg" alt="Its me" width="400"><br>
 - 🎓 M.S. Applied Computer Science — The George Washington University '25
 - 📄 Published in [HCI International 2025](https://link.springer.com/chapter/10.1007/978-3-031-94150-4_41) — ML applied to medical imaging anomaly detection
