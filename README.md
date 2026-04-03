@@ -14,7 +14,7 @@ Senior Research Engineer based in Arlington, VA. I build distributed systems by 
 ### Current Project: [DualProxy](https://dualproxy.app) — MTG Proxy Card Generator
 > *Recently open-sourced*
 
-A clean, fast substitute card generator for Magic: The Gathering cards. Built for Cube designers who want nice looking substitude cards for their dual faced cards, and Commander players who want to test decks before buying in. Pulls card data and art from the Scryfall API with support for double-faced cards, art crops, version selection, and print-ready output.
+A clean and fast substitute card generator for Magic: The Gathering cards. Built for Cube designers, Commander playtesters, or anyone who wants nice looking substitude cards for their dual-faced cards. In my case, to make the drafting experience better. DualProxy pulls card data and art from the Scryfall API with support for single and double-faced cards, version selection, custom art, and print-ready output.
 <br><br>
 <img src="images/dualproxy.png" alt="Dualproxy" width="600">
 <br>
@@ -49,9 +49,9 @@ A browser-based 3D audio-visual music creation tool. Drag instruments around a v
 
 ## 🛠 What I work with
 
-> Languages:    TypeScript · Python · Java · C++ · Learning Go
-> Frontend:     React · Vite · Angular (under duress) · Learning Vue
-> Backend:      PostgreSQL · Redis · Spark · Kafka · Node.js · Firebase · Supabase
+> Languages:    TypeScript · Python · Java · C++ · Learning Go <br>
+> Frontend:     React · Vite · Angular (under duress) · Learning Vue <br>
+> Backend:      PostgreSQL · Redis · Spark · Kafka · Node.js · Firebase · Supabase <br>
 > Deployment:   Kubernetes · Docker · GitLab CI/CD · Cloudflare · Learning Terraform & Ansible
 
 ---
@@ -59,15 +59,19 @@ A browser-based 3D audio-visual music creation tool. Drag instruments around a v
 ## 🃏 Outside of code
 
 I'm married to the amazing [Emily Winchester](https://www.newamerica.org/people/emily-winchester/) and proud parent of two cats, Waffle and Pancake.
-| <img src="images/matt-and-emily.jpeg" alt="Arches National Park" width="300"> | <img src="images/waffle-and-pancake.jpeg" alt="Waffle and Pancake" width="400"> 
 
-I've recently gotten REALLY into 3D printing (much to my wife's delight), mostly accessories for Magic: The Gathering. My current pride and joy: [The Cube!](https://cubecobra.com/cube/list/avatarTLA)<br>
+| | |
+|---|---|
+| <img src="images/matt-and-emily.jpeg" alt="Arches National Park" width="300"> | <img src="images/waffle-and-pancake.jpeg" alt="Waffle and Pancake" width="400"> |
+
+I've recently gotten REALLY into 3D printing (much to my wife's delight), mostly accessories for Magic: The Gathering. My current pride and joy: [The Cube!](https://cubecobra.com/cube/list/avatarTLA)<br><br>
 <img src="images/cube.jpg" alt="My Avatar: TLA Cube" width="500">
 <br><br>
 I enjoy hiking and can occasionally be found outdoors.
 
-
-| <img src="images/matt2.jpeg" alt="Arches National Park" width="300"> | <img src="images/sanjuan.jpeg" alt="San Juan PR" width="300"> 
+| | |
+|---|---|
+| <img src="images/matt2.jpeg" alt="Arches National Park" width="300"> | <img src="images/sanjuan.jpeg" alt="San Juan PR" width="300"> |
 
 I'm co-founding **Hexagon Games** this year — a (very much a work in progress) local game community (and maybe someday, an FLGS!) starting online and building toward a physical location in Northern Virginia. If you're in the area and play Commander or Wingspan (or anything else made of cardboard), [let's game!](https://discord.gg/jn744fzZ)
 
