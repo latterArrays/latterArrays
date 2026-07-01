@@ -5,7 +5,7 @@ Senior Research Engineer based in Arlington, VA. I build distributed systems by 
 - 🎓 M.S. Applied Computer Science — The George Washington University '25
 - 📄 Published in [HCI International 2025](https://link.springer.com/chapter/10.1007/978-3-031-94150-4_41) — ML applied to medical imaging anomaly detection
 - 🏢 Senior Research Engineer @ Lockheed Martin ATL
-- 🃏 Friendly LGS Enthusiast (And someday, a founder of one!)
+- 🃏 Friendly LGS Enthusiast
 
 ---
 
