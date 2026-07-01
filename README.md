@@ -26,6 +26,7 @@ A clean and fast substitute card generator for Magic: The Gathering cards. Built
 ---
 [BreakBuddy](https://breakbuddy.win) - MTG Pack Break planning and evaluator
 > *Recently open-sourced*
+
 Web app for planning and evaluating ‘team breaks’ of Magic: The Gathering Cards. Interface allows a user to analyze expected value of various packs of cards, plan and evaluate pricing for pack breaks, as well as evaluate ‘fairness’ of breaks.
 
 ### [3DStage](https://latterarrays.github.io/3DStage) — Spatial Audio Mixer
