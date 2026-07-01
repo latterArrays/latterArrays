@@ -11,7 +11,8 @@ Senior Research Engineer based in Arlington, VA. I build distributed systems by 
 
 ## 🚀 Project Highlights
 
-### Current Project: [DualProxy](https://dualproxy.app) — MTG Proxy Card Generator
+### Current Projects: 
+[DualProxy](https://dualproxy.app) — MTG Proxy Card Generator
 > *Recently open-sourced*
 
 A clean and fast substitute card generator for Magic: The Gathering cards. Built for Cube designers, Commander playtesters, or anyone who wants nice looking substitude cards for their dual-faced cards. In my case, to make the drafting experience better. DualProxy pulls card data and art from the Scryfall API with support for single and double-faced cards, version selection, custom art, and print-ready output.
@@ -23,6 +24,9 @@ A clean and fast substitute card generator for Magic: The Gathering cards. Built
 [🎧 Live Demo](https://dualproxy.app) · [📂 Source](https://github.com/latterArrays/dualproxy)
 
 ---
+[BreakBuddy](https://breakbuddy.win) - MTG Pack Break planning and evaluator
+> *Recently open-sourced*
+Web app for planning and evaluating ‘team breaks’ of Magic: The Gathering Cards. Interface allows a user to analyze expected value of various packs of cards, plan and evaluate pricing for pack breaks, as well as evaluate ‘fairness’ of breaks.
 
 ### [3DStage](https://latterarrays.github.io/3DStage) — Spatial Audio Mixer
 > *GWU Class Project*
