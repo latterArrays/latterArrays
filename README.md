@@ -82,4 +82,4 @@ I'm co-founding **Hexagon Games** this year — a (very much a work in progress)
 
 ---
 
-*I like interesting problems. Especially ones involving cards.*
+*I like interesting solving problems. Especially ones involving cards.*
